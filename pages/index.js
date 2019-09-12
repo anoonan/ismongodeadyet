@@ -1,6 +1,6 @@
 const Index = () => (
   <div>
-    <p><font style="font-size: 100px"><center>No</center></font></p>
+    <p><center style="font-size: 100px">No</center></p>
   </div>
 );
 

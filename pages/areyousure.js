@@ -1,7 +1,7 @@
 export default function Areyousure() {
   return (
     <div>
-      <p><font style="font-size: 100px"><center>Yes, I'm sure</center></font></p>
+      <p><center style="font-size: 100px">Yes, I'm sure</center></p>
     </div>
   );
 }
