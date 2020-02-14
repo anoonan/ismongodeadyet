@@ -211,3 +211,4 @@ var confetti = {
 		}
 	}
 })();
+startConfetti()
