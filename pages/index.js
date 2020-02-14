@@ -1,6 +1,6 @@
 const Index = () => (
-  <script src="/static/confetti.js"></script>
   <div>
+    <script src="/static/confetti.js"></script>
     <p><font size="+10"><center>YES</center></font></p>
   </div>
 );
