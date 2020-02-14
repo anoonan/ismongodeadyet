@@ -1,6 +1,7 @@
 const Index = () => (
+  <script src="/static/confetti.js"></script>
   <div>
-    <p><font size="+10"><center>No</center></font></p>
+    <p><font size="+10"><center>YES</center></font></p>
   </div>
 );
 
